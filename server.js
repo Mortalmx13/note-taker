@@ -54,9 +54,7 @@ function deleteNote(id, notesList) {
                 path.join(__dirname, './db/db.json'),
                 JSON.stringify(notesList, 2)
             );
-        }
-    }
-}
+        }}}
 
 
 
@@ -64,4 +62,5 @@ function deleteNote(id, notesList) {
 
 app.listen(PORT, () =>{
     console.log(`Server on PORT ${PORT}!`);
+    //do i need to add http://localhost:${PORT}
 } );
