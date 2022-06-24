@@ -14,6 +14,6 @@ This assignmant required the user to work on exsiting code that already set up t
 ![note-taker2](/Assets/11-express-homework-demo-02.png)
 
 ## Resources
-- [Live Site](https://mortalmx13.github.io/note-taker/)
+- [Live Site](https://arcane-wildwood-27186.herokuapp.com/)
 
 - [Respository](https://github.com/Mortalmx13/note-taker)
